@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/CusHome"
+        android:icon="@drawable/ic_baseline_restaurant_menu_24"
+        android:title="Food Around You"
+        />
+    <item
+        android:id="@+id/CartCus"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Cart"
+        />
+    <item
+        android:id="@+id/PendingOrderCus"
+        android:icon="@drawable/ic_baseline_order_cus_24"
+        android:title="Your Orders"
+        />
+    <item
+        android:id="@+id/Track"
+        android:icon="@drawable/ic_baseline_tracking_progress_24"
+        android:title="Tracking Progress"
+        />
+    <item
+        android:id="@+id/CusProfile"
+        android:icon="@drawable/ic_baseline_manage_accounts_24"
+        android:title="Edit Profile"
+        />
+
+</menu>

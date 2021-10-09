@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878402780668",
+    "firebase_url": "https://traditionalfood-720ac-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "traditionalfood-720ac",
+    "storage_bucket": "traditionalfood-720ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878402780668:android:d481822fbe24f06b8cc679",
+        "android_client_info": {
+          "package_name": "my.traditionalfood.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878402780668-offj0u0dcp0pnkagmpsivdt4thq1a4j5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.traditionalfood.application",
+            "certificate_hash": "ab3c2c62a98e99208063100f9cfb30b1f5068700"
+          }
+        },
+        {
+          "client_id": "878402780668-rdknpct4q7fv05dk639up1bmmccopjr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRClzTgfzyxcsreRZ2BMhiMSllJwa5GpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878402780668-rdknpct4q7fv05dk639up1bmmccopjr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

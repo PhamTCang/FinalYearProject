@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/background_shape.xml" value="0.2703125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/btn1.xml" value="0.2703125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/btn2.xml" value="0.2703125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/btn3.xml" value="0.2703125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/camerabutton.xml" value="0.2911458333333333" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2911458333333333" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_food_add_chef_24.xml" value="0.2866666666666667" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_manage_accounts_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_order_cus_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_order_ship_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_phone_24_white.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_restaurant_menu_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_baseline_tracking_progress_24.xml" value="0.2328125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_camera_24.xml" value="0.2911458333333333" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24635416666666668" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/drawable/onselected_icon_color.xml" value="0.23854166666666668" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_bottom_nav_chef_food_panel.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_bottom_nav_cus_food_panel.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_bottom_nav_ship_food_panel.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_accepted_order.xml" value="0.21666666666666667" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_accepted_order_view_detail.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_add_food.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_get_otp.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_profile_add_food.xml" value="0.2" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_reset_pwd.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_sign_in_email.xml" value="0.4" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_sign_in_phone.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_chef_sign_up.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_choose_one.xml" value="0.4" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_customer_get_otp.xml" value="0.1828125" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_customer_reset_pwd.xml" value="0.275" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_customer_sign_in_email.xml" value="0.6" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_customer_sign_in_phone.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_customer_sign_up.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_edit_food.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_main_menu.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_shipper_get_otp.xml" value="0.144" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_shipper_reset_pwd.xml" value="0.275" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_shipper_sign_in_email.xml" value="0.4" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_shipper_sign_in_phone.xml" value="0.536" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_shipper_sign_up.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_verify_phone_chef.xml" value="0.2558876811594203" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_verify_phone_customer.xml" value="0.184375" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/activity_verify_phone_shipper.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/chef_accepted_orders.xml" value="0.21666666666666667" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/chef_addfood.xml" value="0.19791666666666666" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/chef_home.xml" value="0.18177083333333333" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/chef_home_edit.xml" value="0.1671875" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/chef_orders.xml" value="0.264" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/chef_pendingorder.xml" value="0.18177083333333333" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/chef_profile.xml" value="0.18177083333333333" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/customer_cart.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/customer_homemenu.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/customer_homemenu_upload.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/customer_orders.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/customer_profile.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/customer_trackingorders.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/ship_pendingorders.xml" value="0.1337386018237082" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/ship_profile.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/layout/ship_shippingorders.xml" value="0.2595108695652174" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/menu/botnav_chef.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/menu/botnav_customer.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/menu/botnav_ship.xml" value="0.275" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/menu/logout.xml" value="0.1" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15989583333333332" />
+        <entry key="..\:/Greenwich/2021 - topup 2/Final Project 0.1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15989583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

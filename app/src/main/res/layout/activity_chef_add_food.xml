@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".ChefFunctions.ChefAddFood">
+
+    <ImageButton
+        android:id="@+id/picture_upload"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:background="@drawable/camerabutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.12"
+        app:srcCompat="@drawable/ic_camera_24"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/foodname"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+        app:boxBackgroundColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/picture_upload"
+        app:layout_constraintVertical_bias="0.08">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Food's Name"
+            android:inputType="text"
+            android:textSize="18sp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/description"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+        app:boxBackgroundColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/foodname"
+        app:layout_constraintVertical_bias="0.06">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Food's Description"
+            android:inputType="text"
+            android:textSize="18sp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/quantity"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+        app:boxBackgroundColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/description"
+        app:layout_constraintVertical_bias="0.06">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Avalable dishes"
+            android:inputType="number"
+            android:textSize="18sp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/price"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+        app:boxBackgroundColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/quantity"
+        app:layout_constraintVertical_bias="0.06">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="How much for a dish"
+            android:inputType="number"
+            android:textSize="18sp" />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+        android:id="@+id/AddFoodBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn3"
+        android:text="Add To Menu"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/price"
+        app:layout_constraintVertical_bias="0.25" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
