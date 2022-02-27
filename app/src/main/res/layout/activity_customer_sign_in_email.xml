@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Account.CustomerSignInEmail">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Sign In with Email"
+        android:textAlignment="center"
+        android:textColor="@color/gray"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.098" />
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutCus"
+        android:layout_width="300dp"
+        android:layout_height="400dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="150dp"
+        android:background="@drawable/btn3"
+        android:orientation="vertical"
+        android:padding="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/SignInEmailCus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            app:boxCornerRadiusBottomEnd="5sp"
+            app:boxCornerRadiusBottomStart="5sp"
+            app:boxCornerRadiusTopEnd="5sp"
+            app:boxCornerRadiusTopStart="5sp"
+            app:startIconDrawable="@drawable/ic_baseline_email_24">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:hint="Your email"
+                android:inputType="textEmailAddress"
+                android:textColor="@color/gray" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/SignInPwCus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@color/white"
+            app:boxCornerRadiusBottomEnd="5sp"
+            app:boxCornerRadiusBottomStart="5sp"
+            app:boxCornerRadiusTopEnd="5sp"
+            app:boxCornerRadiusTopStart="5sp"
+            app:passwordToggleEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:hint="Your password"
+                android:inputType="textPassword"
+                android:textColor="@color/gray" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/ForgotPwCus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="end"
+            android:text="Forgot your password?"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/SignInBtnCus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:text="Sign In"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            app:backgroundTint="@color/gray"
+            app:cornerRadius="5sp" />
+
+        <TextView
+            android:id="@+id/SignUpLinkCus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="I don't have an account"
+            android:textColor="@color/gray"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <TableRow
+                android:id="@+id/hr4"
+                android:layout_width="120dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="9dp"
+                android:background="@color/gray" />
+
+            <TextView
+                android:id="@+id/textViewCus2"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="OR"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@color/gray"
+                android:textSize="15sp" />
+
+            <TableRow
+                android:id="@+id/hr3"
+                android:layout_width="120dp"
+                android:layout_height="1dp"
+                android:layout_marginTop="9dp"
+                android:background="@color/gray" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/ChangeSignInCus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:drawableLeft="@drawable/ic_baseline_phone_24"
+            android:text="Sign in with phone"
+            android:textColor="@color/white"
+            app:backgroundTint="@color/gray"
+            app:cornerRadius="5sp" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

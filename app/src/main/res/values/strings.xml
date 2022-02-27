@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">TraditionalFood</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="Store">
+        <item>My Quang Thao</item>
+    </string-array>
+
+    <string-array name="Shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="District">
+        <item>District 1</item>
+        <item>District 2</item>
+        <item>District 3</item>
+        <item>District 4</item>
+        <item>District 5</item>
+        <item>District 6</item>
+        <item>District 7</item>
+        <item>District 8</item>
+        <item>District 9</item>
+        <item>District 10</item>
+        <item>District 11</item>
+        <item>District 12</item>
+        <item>Tan Phu</item>
+        <item>Tan Binh</item>
+        <item>Binh Tan</item>
+        <item>Binh Thanh</item>
+        <item>Phu Nhuan</item>
+        <item>Thu Duc</item>
+        <item>Binh Chanh</item>
+        <item>Can Gio</item>
+        <item>Cu Chi</item>
+        <item>Hoc Mon</item>
+        <item>Nha Be</item>
+
+
+    </string-array>
+
+    <string-array name="City">
+        <item>Ho Chi Minh</item>
+        <item>Ha Noi</item>
+        <item>Da Nang</item>
+    </string-array>
+
+    <string-array name="Menu">
+        <item>My Quang Trung Cut</item>
+        <item>My Quang Thit Nac</item>
+        <item>My Quang Ga</item>
+        <item>My Quang Suon</item>
+        <item>My Quang Tom</item>
+        <item>My Quang Thap Cam</item>
+        <item>My Quang Xi Quach</item>
+        <item>My Quang Ca Loc</item>
+        <item>Banh Beo</item>
+
+    </string-array>
+</resources>
